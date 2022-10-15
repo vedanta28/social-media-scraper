@@ -27,3 +27,8 @@ In this project, we have implemented a social media scrapper for select supporte
 
 - [snscrape](https://github.com/JustAnotherArchivist/snscrape)
 - [emoji](https://github.com/carpedm20/emoji)
+
+## Contact Us
+
+- Arnav Kumar Behera (www.alphaorionis@gmail.com)
+- Vedanta Mohapatra (manav.sep.28@gmail.com)
